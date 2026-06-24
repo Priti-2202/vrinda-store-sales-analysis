@@ -9,7 +9,7 @@ The goal of the Vrinda Store Annual Report Dashboard project is to analyze sales
 # Tools Used
 Microsoft Excel 📊
 # Process
-1.Understanding Business Problem: Addressing Vrinda Store's need for a comprehensive understanding of its sales performance and customer demographics.\n
+1.Understanding Business Problem: Addressing Vrinda Store's need for a comprehensive understanding of its sales performance and customer demographics.
 2.Data Cleaning: Ensuring accuracy and consistency by cleaning and preprocessing raw sales data.
 3.Data Processing: Analyzing processed data to uncover patterns, trends, and correlations.
 4.Data Analysis: Employing various analytical techniques to derive insights and identify areas for improvement.
